@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/16.customization-selectable-activity/static/css/main.c0c51a48.chunk.css",
+    "main.js": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.7fb6477b.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.7fb6477b.chunk.js.map",
+    "runtime~main.js": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/runtime~main.7c3c6182.js",
+    "runtime~main.js.map": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/runtime~main.7c3c6182.js.map",
+    "static/js/2.c18a51d8.chunk.js": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/2.c18a51d8.chunk.js",
+    "static/js/2.c18a51d8.chunk.js.map": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/2.c18a51d8.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/16.customization-selectable-activity/index.html",
+    "precache-manifest.ce75ff22cf5821c6f39d863978dd0e4e.js": "/BotFramework-WebChat/16.customization-selectable-activity/precache-manifest.ce75ff22cf5821c6f39d863978dd0e4e.js",
+    "service-worker.js": "/BotFramework-WebChat/16.customization-selectable-activity/service-worker.js",
+    "static/css/main.c0c51a48.chunk.css.map": "/BotFramework-WebChat/16.customization-selectable-activity/static/css/main.c0c51a48.chunk.css.map"
+  }
+}
