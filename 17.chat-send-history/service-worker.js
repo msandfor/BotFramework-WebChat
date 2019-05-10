@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BotFramework-WebChat/17.chat-send-history/precache-manifest.9d767dbd368b1d1cc147f6644a11c5b1.js"
+  "/BotFramework-WebChat/17.chat-send-history/precache-manifest.d88e179143cef32f41a159a3032c2807.js"
 );
 
 self.addEventListener('message', (event) => {

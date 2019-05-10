@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27795df3c03a1fb20c0524da25cd58c0",
+    "revision": "f77b8854e08698dec8b9b9d92e27b826",
     "url": "/BotFramework-WebChat/14.customization-piping-to-redux/index.html"
   },
   {
-    "revision": "6a190db7fd42b981493e",
+    "revision": "db4f0b67d6a14a77c4bd",
     "url": "/BotFramework-WebChat/14.customization-piping-to-redux/static/css/main.0cdabcaa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/2.fc87e6bf.chunk.js"
   },
   {
-    "revision": "6a190db7fd42b981493e",
-    "url": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.185a78bf.chunk.js"
+    "revision": "db4f0b67d6a14a77c4bd",
+    "url": "/BotFramework-WebChat/14.customization-piping-to-redux/static/js/main.f8a0cbbd.chunk.js"
   },
   {
     "revision": "1bc08aee019745df324f",

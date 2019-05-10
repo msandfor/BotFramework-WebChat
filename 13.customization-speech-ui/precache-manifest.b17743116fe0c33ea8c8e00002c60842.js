@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0dd22bb7e700de9055f062a3047c489",
+    "revision": "aaf251c083af318645d3d94e0b21c9b7",
     "url": "/BotFramework-WebChat/13.customization-speech-ui/index.html"
   },
   {
-    "revision": "58a459d37f6cf5354982",
+    "revision": "d3cc083733e3ed605eda",
     "url": "/BotFramework-WebChat/13.customization-speech-ui/static/css/main.86d1088d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BotFramework-WebChat/13.customization-speech-ui/static/js/2.899f7ccf.chunk.js"
   },
   {
-    "revision": "58a459d37f6cf5354982",
-    "url": "/BotFramework-WebChat/13.customization-speech-ui/static/js/main.9334ce39.chunk.js"
+    "revision": "d3cc083733e3ed605eda",
+    "url": "/BotFramework-WebChat/13.customization-speech-ui/static/js/main.a78e057f.chunk.js"
   },
   {
     "revision": "127474629dceca3dcf83",

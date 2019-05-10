@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "effcec06ffa335e541a210c3faf69c64",
+    "revision": "d54e7e1e32e61e152df364a53f94e1a3",
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/index.html"
   },
   {
-    "revision": "b51dea0f2654b601094b",
+    "revision": "9482107086c8631079d2",
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/css/main.c0c51a48.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/2.c18a51d8.chunk.js"
   },
   {
-    "revision": "b51dea0f2654b601094b",
-    "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.7fb6477b.chunk.js"
+    "revision": "9482107086c8631079d2",
+    "url": "/BotFramework-WebChat/16.customization-selectable-activity/static/js/main.1d28d8dd.chunk.js"
   },
   {
     "revision": "4093a2bf38f36e6d1016",
